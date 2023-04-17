@@ -1,0 +1,52 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Projeyi Tamamla",
+      "date": " 10 Mart 2023",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "title": "Düzenle butonu aktif edilecek",
+      "date": " 10 Mart 2023",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "title": "Silmee işlemini gerçekleştir",
+      "date": " 10 Mart 2023",
+      "isDone": false
+    },
+    {
+      "id": 1681678181504,
+      "title": "veri tabanına eklendi",
+      "date": "4/16/2023, 11:49:41 PM",
+      "isDone": false
+    },
+    {
+      "id": 1681678283760,
+      "title": "ama aylnızca sayfa yenilendiğinde glicek",
+      "date": "4/16/2023, 11:51:23 PM",
+      "isDone": false
+    },
+    {
+      "id": 1681678328581,
+      "title": "asdasd",
+      "date": "4/16/2023, 11:52:08 PM",
+      "isDone": false
+    },
+    {
+      "id": 1681678376177,
+      "title": "yenisi eklendi",
+      "date": "4/16/2023, 11:52:56 PM",
+      "isDone": false
+    },
+    {
+      "id": 1681678449426,
+      "title": "asdasd",
+      "date": "4/16/2023, 11:54:09 PM",
+      "isDone": false
+    }
+  ]
+}
